@@ -18,3 +18,5 @@ Action: Both rotate (180°) and shoot in real-time pulses. Human shoots clockwis
 Accepted Shot: Human’s clockwise shot + AI’s next clockwise shot adds 1 floor. Mismatches add nothing.
 AI Learning: Human’s example sequences train AI to adjust rotation for success.
 End: Game stops when target floors are built; efficiency (fewer pulses) wins.
+
+The AI plays in the same time and learns from  exemples of play by humans how to regulate his turning to make the player win.
